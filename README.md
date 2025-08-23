@@ -6,10 +6,6 @@ Want to quickly match candidate resumes to the most relevant jobs—**locally, w
 
 With **Streamlit** as the front-end, a compact and fast **SentenceTransformer** for embeddings, and the efficient **facebook/opt-1.3b** LLM (no needed authentication, just works on machines with 16 GB RAM), you can test out RAG-powered job-resume matching directly on your own laptop.
 
-> **Screenshots go here:**  
-> ![Screenshot of Streamlit App - Upload Resume](path/to/screenshot1.png)  
-> ![Screenshot of Matched Jobs with Explanations](path/to/screenshot2.png)
-
 ---
 
 ### 🚀 Features & Flow
@@ -122,5 +118,8 @@ streamlit run streamlit_02.py
 ---
 
 ## 🖼️ Screenshots from streamlit
+![s1](Streamlit screenshot/streamlit_01.png)
 
+![s2](Streamlit screenshot/streamlit_02.png)
 
+![s3](Streamlit screenshot/streamlit_03.png)
