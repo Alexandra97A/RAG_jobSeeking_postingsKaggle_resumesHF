@@ -118,8 +118,8 @@ streamlit run streamlit_02.py
 ---
 
 ## 🖼️ Screenshots from streamlit
-![s1](Streamlit screenshot/streamlit_01.png)
+![s1](Streamlit_screenshot/streamlit_01.png)
 
-![s2](Streamlit screenshot/streamlit_02.png)
+![s2](Streamlit_screenshot/streamlit_02.png)
 
-![s3](Streamlit screenshot/streamlit_03.png)
+![s3](Streamlit_screenshot/streamlit_03.png)
